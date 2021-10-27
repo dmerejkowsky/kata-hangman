@@ -1,9 +1,3 @@
----
-title: Hangman
-author: Dimitri Merejkowsky
----
-
-
 # Goal
 
 Implement the hangman game on the command line
